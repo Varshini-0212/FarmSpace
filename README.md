@@ -16,64 +16,76 @@ FarmSpace is an AI-powered agriculture platform that combines machine learning, 
 The platform predicts suitable crops based on environmental conditions, provides weather-based planning support, and offers a marketplace for agricultural supplies such as fertilizers and pesticides.
 
 🚀 Features
+
 🤖 Crop Recommendation & Yield Prediction
-Predicts suitable crops using Machine Learning.
-Utilizes weather and soil parameters.
-Generates intelligent farming recommendations.
+
+* Predicts suitable crops using Machine Learning
+* Utilizes weather and soil parameters
+* Generates intelligent farming recommendations
 
 🌦 Weather Intelligence
-Automatic location-based weather lookup.
-Weekly weather forecasting.
-Planning support for farming activities.
+
+* Automatic location-based weather lookup.
+* Weekly weather forecasting.
+* Planning support for farming activities.
 
 🛒 Farm Supply Marketplace
-Browse agricultural products.
-Add products to cart.
-Quantity-based cart management.
-Checkout functionality.
+
+* Browse agricultural products.
+* Add products to cart.
+* Quantity-based cart management.
+* Checkout functionality.
 
 👤 User Management
-User Registration
-Login & Logout
-Secure account management
+
+* User Registration
+* Login & Logout
+* Secure account management
 
 📦 Order Management
-Order placement
-Order history tracking
-Detailed order information
 
-📂 Project Structure
+* Order placement
+* Order history tracking
+* Detailed order information
+
+## 📂 Project Structure
+
+```text
 FarmSpace
 │
-├── `main.py` - Flask application and CLI entrypoint; contains routes, database setup, weather APIs, cart, and orders
-├── `model.py` - ML training and prediction logic
-├── `crop_yield_dataset.csv` - Training dataset
+├── main.py   -  Flask application and CLI entrypoint; contains routes, database setup, weather APIs, cart, and orders
+├── model.py    - ML training and prediction logic
+├── crop_yield_dataset.csv    - Training dataset
 │
-├── `artifacts/`
+├── artifacts/
 │   └── Trained ML Models
 │
-├── `static/`
+├── static/
 │   ├── CSS
 │   └── Images
 │
-└── `templates/`
+└── templates/
     └── HTML Templates
-
+```
 🛠 Technology Stack
+
 Backend
-Python
-Flask
+* Python
+* Flask
+
 Machine Learning
-Pandas
-NumPy
-Scikit-Learn
-Joblib
+* Pandas
+* NumPy
+* Scikit-Learn
+* Joblib
+
 Database
-SQLite
+* SQLite
+
 Frontend
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## uv install 
 ```bash
@@ -133,6 +145,3 @@ This project is licensed under the [MIT License](LICENSE).
 **Varshini Keerthi**
 
 GitHub: https://github.com/Varshini-0212
-
-⭐ FarmSpace demonstrates the integration of Artificial Intelligence, Web Development, and Agriculture Technology to support smart farming practices.
-
