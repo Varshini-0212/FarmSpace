@@ -9,6 +9,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-DB-0F766E?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Joblib](https://img.shields.io/badge/Joblib-Model-8B5CF6?logo=python&logoColor=white)](https://joblib.readthedocs.io/)
 [![MIT License](https://img.shields.io/badge/License-MIT-EC4899?logo=open-source-initiative&logoColor=white)](LICENSE)
+
 🌾 FarmSpace
 
 FarmSpace is an AI-powered agriculture platform that combines machine learning, weather intelligence, and e-commerce features to assist farmers in making informed agricultural decisions.
