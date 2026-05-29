@@ -20,19 +20,23 @@ The platform predicts suitable crops based on environmental conditions, provides
 Predicts suitable crops using Machine Learning.
 Utilizes weather and soil parameters.
 Generates intelligent farming recommendations.
+
 🌦 Weather Intelligence
 Automatic location-based weather lookup.
 Weekly weather forecasting.
 Planning support for farming activities.
+
 🛒 Farm Supply Marketplace
 Browse agricultural products.
 Add products to cart.
 Quantity-based cart management.
 Checkout functionality.
+
 👤 User Management
 User Registration
 Login & Logout
 Secure account management
+
 📦 Order Management
 Order placement
 Order history tracking
