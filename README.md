@@ -1,4 +1,4 @@
-# Farmspace
+# 🌾Farmspace
 
 [![Python](https://img.shields.io/badge/Python-3.14+-4B8BBE?logo=python&logoColor=white)](https://www.python.org/)
 [![UV](https://img.shields.io/badge/UV-Setup-111827?logo=python&logoColor=white)](https://docs.astral.sh/uv/)
@@ -10,7 +10,6 @@
 [![Joblib](https://img.shields.io/badge/Joblib-Model-8B5CF6?logo=python&logoColor=white)](https://joblib.readthedocs.io/)
 [![MIT License](https://img.shields.io/badge/License-MIT-EC4899?logo=open-source-initiative&logoColor=white)](LICENSE)
 
-🌾 FarmSpace
 
 FarmSpace is an AI-powered agriculture platform that combines machine learning, weather intelligence, and e-commerce features to assist farmers in making informed agricultural decisions.
 
