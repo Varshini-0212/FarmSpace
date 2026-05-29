@@ -126,11 +126,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 👩‍💻 Author
 
-Varshini Keerthi
+**Varshini Keerthi**
 
 GitHub: https://github.com/Varshini-0212
 
 ⭐ FarmSpace demonstrates the integration of Artificial Intelligence, Web Development, and Agriculture Technology to support smart farming practices.
-
-**Varshini Keerthi**
 
